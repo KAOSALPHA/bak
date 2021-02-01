@@ -1,0 +1,25 @@
+{
+  "name": "kaosbot-goorm",
+  "version": "0.0.4",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://8b49f02454afc3be4c259d654bfb0d6855035728@github.com/KAOSALPHA/KaosBOT-goorm.git"
+  },
+  "keywords": [
+    "12345Asdcv"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAOSALPHA/KaosBOT-goorm/issues"
+  },
+  "homepage": "https://github.com/KAOSALPHA/KaosBOT-goorm#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
